@@ -4,7 +4,7 @@
 ![Parch](Images/parch.png)
 
 # Introduction
-This report provides an overview of sales performance for Parch and Posey Paper Company dutring a five year period using Power BI. It highlights key trends, performance metrics, and actionable insights to support strategic decision-making.
+This report provides an overview of sales performance for Parch and Posey Paper Company during a five year period using Power BI. It highlights key trends, performance metrics, and actionable insights to support strategic decision-making.
 
 # Data and Methodology
 In this section, I'll give a brief overview of the dataset and the method I'll use to carry out this analysis.
@@ -115,6 +115,7 @@ What are the key barriers to higher sales in the lowest-performing region, and h
 What is the sales trend, and how can we boost sales of the least demanded paper while sustaining sales of the most demanded product?
 
 ### Finding 
+- The chart reveals the sales trends over the selected years, showing consistent growth in the years with complete data. Excluding the incomplete years (2013 and 2017) allowed for a more accurate and fair comparison, highlighting key patterns and trends that would have been skewed by missing data
 - Product sales (Standard, Poster, Gloss) reached their highest in 2016.
 - While standard paper contributes the highest revenue, poster paper sales (5.88M) show the fastest growth trend across years. This indicates a shifting customer preference toward specialized, possibly premium products.
 
